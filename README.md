@@ -2,14 +2,21 @@
 
 Follow these steps to get the project up and running on your local machine.
 
-### 1. Install Base Dependencies
+### Install Base Dependencies
 First, install the project's core dependencies:
 ```bash
 npm install
-Tailwind CSS
+```
+#### Tailwind CSS
+```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-React Icons
+```
+#### React Icons
+```bash
 npm install react-icons
-AOS (Animate On Scroll)
+```
+#### AOS (Animate On Scroll)
+```bash
 npm install aos
+```
